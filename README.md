@@ -22,6 +22,9 @@
 ## Credits
 
 * Map creator - Baradé
-* [Pink Soldiers](https://www.youtube.com/watch?v=v9NQYKv2rTg) - Squid Game on Netflix
-* [Squid Game Logo](https://upload.wikimedia.org/wikipedia/commons/4/40/Squid_Game_logo.png) - Squid Game on Netflix
+* [Pink Soldiers](https://www.youtube.com/watch?v=v9NQYKv2rTg) - Squid Game from Netflix
+* [Squid Game Logo](https://upload.wikimedia.org/wikipedia/commons/4/40/Squid_Game_logo.png) - Squid Game from Netflix
 * [HeroGlow](https://www.hiveworkshop.com/threads/heroglow.129462/) - assasin_lord
+* [Loading Screen](https://images.wallpapersden.com/image/download/netflix-squid-game_bG5raW6UmZqaraWkpJRqZmdlrWdtbWU.jpg) - Squid Game from Netflix
+* [Loading Screen](https://images.wallpapersden.com/image/download/squid-game-hd-netflix_bG5raWyUmZqaraWkpJRobWllrWdpZWU.jpg) - Squid Game from Netflix
+* Sound Effects - Squid Game from Netflix
