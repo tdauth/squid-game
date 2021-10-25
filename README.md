@@ -32,3 +32,6 @@ It features several games from the series in form of competitive minigames in Wa
 * [BTNCapitalism]https://www.hiveworkshop.com/threads/btncapitalism.88790/) - General Frank
 * [kingsbed](https://www.hiveworkshop.com/threads/kingsbed.47648/) - alreadyused
 * [CreepyMask](https://www.hiveworkshop.com/threads/creepymask.237285/) - Sin'dorei300
+* [Autumn Wall Section](https://www.hiveworkshop.com/threads/autumn-wall-section.181756/) - Fingolfin
+* [Lordaeron Hills Sky (Beta)](https://www.hiveworkshop.com/threads/lordaeron-hills-sky-beta.246682/) - Blizzard Entertainment
+* [Survival Ministructure: Clay Forge](https://www.hiveworkshop.com/threads/survival-ministructure-clay-forge.306966/) - The_Silent
