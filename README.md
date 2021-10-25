@@ -1,10 +1,11 @@
 # Squid Game
 
 [Warcraft III: Reforged](https://playwarcraft3.com/de-de/) funmap based on the TV series [Squid Game](https://www.imdb.com/title/tt10919420/).
+It features several games from the series in form of competitive minigames in Warcraft.
 
 ## Play the Map
 
-* [Download](./squidgame1.0.w3x) the current version of the map and place it into your Warcraft map folder `C:\Users\XXX\Documents\Warcraft III\Maps\Download`.
+* [Download](./squidgame0.1.w3x) the current version of the map and place it into your Warcraft map folder `C:\Users\XXX\Documents\Warcraft III\Maps\Download`.
 * Start Warcraft III: Reforged and either host it online or play it in single player.
 
 ## Features
@@ -29,3 +30,5 @@
 * [Loading Screen](https://images.wallpapersden.com/image/download/squid-game-hd-netflix_bG5raWyUmZqaraWkpJRobWllrWdpZWU.jpg) - Squid Game from Netflix
 * Sound Effects - Squid Game from Netflix
 * [BTNCapitalism]https://www.hiveworkshop.com/threads/btncapitalism.88790/) - General Frank
+* [kingsbed](https://www.hiveworkshop.com/threads/kingsbed.47648/) - alreadyused
+* [CreepyMask](https://www.hiveworkshop.com/threads/creepymask.237285/) - Sin'dorei300
